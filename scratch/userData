@@ -1,0 +1,8 @@
+{ isActive: 1,
+  _id: 5d904438f8b05326b33ede91,
+  name: 'vikas',
+  email: 'vikas@gmail.com',
+  password: '$2a$10$swDsgikFObprpxqsByx80.HRTThL7SznGk0QCr4jS.C79DqHAd5f.',
+  createdAt: 2019-09-29T05:42:16.117Z,
+  updatedAt: 2019-09-29T05:42:16.117Z,
+  __v: 0 }
